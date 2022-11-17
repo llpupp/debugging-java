@@ -23,5 +23,4 @@ public class CalculadoraDeMedias {
 
         return soma / alunos.length;
     }
-
 }
