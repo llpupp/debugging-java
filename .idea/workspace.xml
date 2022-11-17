@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c55a00c-84ef-4504-92cb-4b34511ec62b" name="Changes" comment="Inclusão Readme" />
+    <list default="true" id="8c55a00c-84ef-4504-92cb-4b34511ec62b" name="Changes" comment="Média da turma">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,8 +32,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
   <component name="RunManager" selected="Application.CalculadoraDeMedias">
@@ -84,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668689760608</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Main">
+      <created>1668689834460</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668689834460</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Média da turma">
+      <created>1668689921352</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668689921352</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +115,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inclusão Readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inclusão Readme" />
+    <MESSAGE value="Main" />
+    <MESSAGE value="Média da turma" />
+    <option name="LAST_COMMIT_MESSAGE" value="Média da turma" />
   </component>
 </project>
